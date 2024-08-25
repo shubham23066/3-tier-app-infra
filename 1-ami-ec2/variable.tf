@@ -13,6 +13,6 @@ variable "instance-type" {
 variable "key-name" {
     description = "keyname"
     type = string
-    default = "aws_key"
+    default = "test"
   
 }
